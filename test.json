@@ -1,0 +1,138 @@
+{
+    "Variables": [
+      {
+        "Name": "adminAppAudience",
+        "Value": "eea211a4-2690-4196-a5ec-cd3774001074",
+        "Scope": {
+          "Environment": [
+            "Dev"
+          ]
+        }
+      },
+      {
+        "Name": "adminAppTenant",
+        "Value": "24e5f152-fea2-4195-bef3-8844df30e8dc",
+        "Scope": {}
+      },
+      {
+        "Name": "apiBaseAddress",
+        "Value": "https://centraldevapi.azurewebsites.net/api/",
+        "Scope": {}
+      },
+      {
+        "Name": "apiResourceId",
+        "Value": "https://centraldevapi.azurewebsites.net",
+        "Scope": {}
+      },
+      {
+        "Name": "centralDashboardUrl",
+        "Value": "https://teamcentraldashboarddev.azurewebsites.net",
+        "Scope": {}
+      },
+      {
+        "Name":  "centralLogoFilename",
+        "Value": "centric_logo_color_clear.png",
+        "Scope": {}
+      },
+      {
+        "Name": "centralScheduledNotificationTimer",
+        "Value": 0,
+        "Scope": {}
+      },
+      {
+        "Name": "centralSendTurnedOn",
+        "Value": false,
+        "Scope": {}
+      },
+      {
+        "Name": "centralSyncDirectory",
+        "Value": "C:\\Program Files\\Centric\\Central Sync\\",
+        "Scope": {}
+      },
+      {
+        "Name": "commonAADInstance",
+        "Value": "https://login.windows.net/{0}",
+        "Scope": {}
+      },
+      {
+        "Name": "commonAudience",
+        "Value": "https://centraldevapi.azurewebsites.net",
+        "Scope": {}
+      },
+      {
+        "Name": "commonCertificatePath",
+        "Value": "",
+        "Scope": {}
+      },
+      {
+        "Name": "commonClientId",
+        "Value": "5e97da02-5c11-4c55-bb41-619079930256",
+        "Scope": {}
+      },
+      {
+        "Name": "commonTenant",
+        "Value": "teamcentraldev.onmicrosoft.com",
+        "Scope": {}
+      },
+      {
+        "Name": "commonTenantId",
+        "Value": "8698cc9d-7acc-4963-9c7d-bc43668f374f",
+        "Scope": {}
+      },
+      {
+        "Name": "connectorCloudFunctionBaseEndpoint",
+        "Value": "https://centralconnectors.azurewebsites.net/api/",
+        "Scope": {}
+      },
+      {
+        "Name": "connectorCloudFunctionClientId",
+        "Value": "946340f5-4836-4daa-99d5-2a67af19d79d",
+        "Scope": {}
+      },
+      {
+        "Name": "connectorCloudFunctionLoginEndpoint",
+        "Value": "https://login.microsoftonline.com/24e5f152-fea2-4195-bef3-8844df30e8dc/oauth2/v2.0/token",
+        "Scope": {}
+      },
+      {
+        "Name": "connectorCloudFunctionScope",
+        "Value": "946340f5-4836-4daa-99d5-2a67af19d79d/.default",
+        "Scope": {}
+      },
+      {
+        "Name": "name",
+        "Value": "db-AuthorizationKey",
+        "Scope": {}
+      },
+      {
+        "Name": "secureValue",
+        "Value": null,
+        "Scope": {}
+      },
+      {
+        "Name": "version",
+        "Value": "409ed1aeec1d4435a4bbd791a15deb26",
+        "Scope": {}
+      }
+ 
+    ]
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
