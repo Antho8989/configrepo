@@ -41,7 +41,7 @@
       },
       {
         "Name": "centralSendTurnedOn",
-        "Value": false,
+        "Value": "false",
         "Scope": {}
       },
       {
