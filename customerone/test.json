@@ -2,7 +2,7 @@
     "Variables": [
       {
         "Name": "adminAppAudience",
-        "Value": "eea211a4-2690-4196-a5ec-cd3774001074...................................",
+        "Value": "eea211a4-2690-4196-a5ec-cd3774001074",
         "Scope": {
           "Environment": [
             "Dev"
@@ -112,6 +112,39 @@
       {
         "Name": "version",
         "Value": "409ed1aeec1d4435a4bbd791a15deb26",
+        "Scope": {}
+      }
+
+      /* Insert Variables for container app.yml */
+      ,
+      {
+        "Name": "API_NAME",
+        "Value": "democontainerapp",
+        "Scope": {}
+      },
+      {
+        "Name": "REGISTRY_LOGIN_SERVER",
+        "Value": "testcr234.azurecr.io",
+        "Scope": {}
+      },
+      {
+        "Name": "REGISTRY_USERNAME",
+        "Value": "testcr234",
+        "Scope": {}
+      },
+      {
+        "Name": "REGISTRY_PASSWORD",
+        "Value": "7DDvfl0QAR35Iej0500so8Zs0yfeYQCvgFaxEcIXYB+ACRBfFhPD",
+        "Scope": {}
+      },
+      {
+        "Name": "RESOURCE_GROUP",
+        "Value": "test-rg-dev",
+        "Scope": {}
+      },
+      {
+        "Name": "ENVIRONMENT",
+        "Value": "test-env-dev",
         "Scope": {}
       }
  
