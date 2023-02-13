@@ -139,12 +139,12 @@
       },
       {
         "Name": "RESOURCE_GROUP",
-        "Value": "teamcentral-agents-dev",
+        "Value": "test-rg-dev",
         "Scope": {}
       },
       {
         "Name": "ENVIRONMENT",
-        "Value": "centraldevcontainerenv",
+        "Value": "test-env-dev",
         "Scope": {}
       }
  
