@@ -146,6 +146,11 @@
         "Name": "ENVIRONMENT",
         "Value": "centraldevcontainerenv",
         "Scope": {}
+      },
+      {
+        "Name": "LOCATION",
+        "Value": "Central US",
+        "Scope": {}
       }
  
     ]
