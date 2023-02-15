@@ -113,10 +113,9 @@
         "Name": "version",
         "Value": "409ed1aeec1d4435a4bbd791a15deb26",
         "Scope": {}
-      }
+      },
 
       /* Insert Variables for container app.yml */
-      ,
       {
         "Name": "API_NAME",
         "Value": "democontainerapp",
@@ -150,6 +149,35 @@
       {
         "Name": "LOCATION",
         "Value": "Central US",
+        "Scope": {}
+      },
+
+      /* Insert Variables for daprstatedatabase.yml */
+      {
+        "Name": "ComosDb_url",
+        "Value": "https://cosmos-nltlwvo7hcg3k.documents.azure.com:443/",
+        "Scope": {}
+      },
+      {
+        "Name": "masterKey",
+        "Value": "V1TsW6PNL5rv6egshbFTTCkPqevk0rJRfX7CQgiSO7nowaDxXRvOkoRvMn43tT9BntAQrGkYOTA7ACDbkimudA==",
+        "Scope": {}
+      },
+      {
+        "Name": "database",
+        "Value": "ordersDb",
+        "Scope": {}
+      },
+      {
+        "Name": "collection",
+        "Value": "orders",
+        "Scope": {}
+      },
+
+      /* Insert Variables for daprstateservicebus.yml*/
+      {
+        "Name": "SBConnectionString",
+        "Value": "endpoint....",
         "Scope": {}
       }
  
